@@ -19,6 +19,9 @@ will likely see an error such as:
 
 <img src="https://user-images.githubusercontent.com/1119017/149858436-c9baa238-a4f7-4c52-b995-0ed8bee97487.png" alt="Authorization Error; Error 401: invalid_client; The OAuth client was not found." width="400"/>
 
+# Badge
+[![codecov](https://codecov.io/gh/ucsb-cs156-w22/jpa03-HBzhainan-wzw/branch/master/graph/badge.svg?token=vjPreNw1jJ)](https://codecov.io/gh/ucsb-cs156-w22/jpa03-HBzhainan-wzw)
+
 # Getting Started on localhost
 
 - Open _two separate terminal windows_
